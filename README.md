@@ -1,1 +1,3 @@
 # Ingres Stock
+HOST=172.16.1.3
+PORT=50002
