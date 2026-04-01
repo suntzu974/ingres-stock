@@ -1,3 +1,7 @@
 # Ingres Stock
 HOST=172.16.1.3
 PORT=50002
+## Application maven java 
+IP_TOMCAT=10.1.10.125
+IP_TOMCAT_PORT=8080
+IP_TOMCAT_APP=ECOMRUN
